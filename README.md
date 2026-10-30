@@ -1,10 +1,5 @@
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nnayz.nnayz&left_text=Profile%20Visits" />
-</div>
-
-
 <div style="font-size: 20px; font-weight: 700; margin-bottom: 10px;">
   Hello, I am Nasrul.<br />
 </div>
